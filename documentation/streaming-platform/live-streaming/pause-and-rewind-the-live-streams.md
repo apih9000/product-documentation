@@ -18,17 +18,7 @@ DVR (Digital Video Recorder) is a free feature that allows your viewers to pause
 
 DVR is based on caching technology. When you enable the feature, we start caching your live streams for 1 hour by default. This means that viewers can rewind your broadcast for up to one hour.
 
-If your live streams are usually longer, you can increase the DVR playback time up to 4 hours by contacting tech support. It’s free to increase the amount.
-
-## Enable the DVR feature
-
-To enable the feature, send us a request via [support@gcore.com](mailto:support@gcore.com) or the chat window in the bottom-right corner of our website. Please specify your ID in the request, so we can identify your account. You can find it on the main page of your control panel.
-
-<img src="https://assets.gcore.pro/docs/streaming-platform/live-streaming/pause-and-rewind-the-live-streams/9654962196625.png" alt="Live stream settings page" width="80%">
-
-The message template: *"Greetings! Please enable the DVR feature for the account with ID … (your ID)"*. Specify if you want to increase the playback time to 4 hours.
-
-We will notify you when the feature is enabled. After that, you will be able to use it for your account.
+If your live streams are usually longer, you can increase the DVR playback time up to 4 hours (or even [up to 24 hours](https://gcore.com/news/low-latency-broadcasts-can-now-be-rewound-24-hours/) for special cases). Contact the Support Team. It’s free to increase the amount.
 
 ## Use the DVR feature
 
